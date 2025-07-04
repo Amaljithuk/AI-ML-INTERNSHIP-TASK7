@@ -51,7 +51,7 @@ scikit-learn
 
 How to Run
 
-Clone this repository:git clone https://github.com/your-username/Breast-Cancer-SVM-Classification.git
+Clone this repository:git clone (https://github.com/Amaljithuk/AI-ML-INTERNSHIP-TASK7)
 
 
 Install required dependencies:pip install pandas numpy matplotlib seaborn scikit-learn jupyter
